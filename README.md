@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Kennedy Martins<a><img src="./.github/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/kennedysmartins">Kennedy Martins<a><img src="./.github/wave.gif" width="60px" /></h1>
 <p align="center"><img src="./.github/cover.png"></p>
 
 <!--
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+<!-- 
 <p align="center"><b>Visitor's Count</b></p>
-![](https://komarev.com/ghpvc/?username=kennedysmartins)
+<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p> -->
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=kennedysmartins&theme=radical&include_all_commits=true&count_private=true)
