@@ -109,9 +109,8 @@
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://kennedysmartins.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Kennedy_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedysmartins/)](https://www.linkedin.com/in/kennedysmartins/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-kennedysmartins@hotmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-kennedysmartins__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kennedysmartins_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-kennedysmartins-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kennedysmartins)&nbsp;
-  [![AniList Badge](https://img.shields.io/badge/-kennedysmartins-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/kennedysmartins/)
+  [![Instagram Badge](https://img.shields.io/badge/-kenny.mrts__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kenny.mrts_/)&nbsp;
+
 
 </div>
 
