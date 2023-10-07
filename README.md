@@ -1,4 +1,5 @@
-### Hi there 👋
+# <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Kennedy Martins<a><img src="./.github/wave.gif" width="60px" /></h1>
+<p align="center"><img src="./.github/cover.png"></p>
 
 <!--
 **kennedysmartins/kennedysmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+<p align="center"><b>Visitor's Count</b></p>
+![](https://komarev.com/ghpvc/?username=kennedysmartins)
