@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <!-- 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p> -->
-<p align="center">
+ <div align="center">
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=kennedysmartins&theme=radical&include_all_commits=true&count_private=true)
-</p>
+</div>
