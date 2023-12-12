@@ -58,8 +58,10 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - ReactJS
+  - NextJS
   - NodeJS
+  - MongoDB
+  - Typescript
 
 </div>
 
