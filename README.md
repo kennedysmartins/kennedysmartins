@@ -61,6 +61,7 @@
   - NextJS
   - NodeJS
   - MongoDB
+  - Prisma
   - Typescript
 
 </div>
@@ -77,7 +78,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
   ![Next JS](https://img.shields.io/badge/Next-0D1117?style=flat&logo=next.js)&nbsp;
-  ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=flat&logo=mysql)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
   ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat&logo=Prisma)&nbsp;
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=flat&logo=tailwind-css)&nbsp;
