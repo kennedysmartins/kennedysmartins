@@ -76,9 +76,12 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![Next JS](https://img.shields.io/badge/Next-0D1117?style=flat&logo=next.js)
-  ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb)
+  ![Next JS](https://img.shields.io/badge/Next-0D1117?style=flat&logo=next.js)&nbsp;
+  ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=flat&logo=mysql)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
+  ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat&logo=Prisma)&nbsp;
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=flat&logo=tailwind-css)&nbsp;
+  ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=flat&logo=styled-components)&nbsp;
   <!-- ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp; -->
   <!-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp; -->
   <!-- ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp; -->
