@@ -74,6 +74,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![Next JS](https://img.shields.io/badge/Next-0D1117?style=flat&logo=next.js)
   ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb)
   <!-- ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp; -->
