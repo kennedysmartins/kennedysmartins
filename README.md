@@ -8,11 +8,11 @@
 </div>
 
 
-<div align="center">
+<p align="center">
 <h1 align="center">Hi, I'm <a href="https://github.com/kennedysmartins">Kennedy<a><img src="./.github/wave.gif" width="60px" /></h1>
 
   
-</div>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kennedysmartins&color=blueviolet" alt="Profile views" />
