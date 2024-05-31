@@ -10,7 +10,6 @@
 
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://github.com/kennedysmartins">Kennedy<a><img src="./.github/wave.gif" width="60px" /></h1>
-<p align="center"><img src="./.github/cover.png" width="50%"></p>
 
   
 </div>
