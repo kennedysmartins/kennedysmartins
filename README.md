@@ -96,7 +96,7 @@
 </a>
 </div>
 
-[![Kennedy Martins github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedysmartins&&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kennedy Martins github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedysmartins&&theme=high-contrast&bg_color=0d111700&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
