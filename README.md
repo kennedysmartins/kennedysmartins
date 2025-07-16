@@ -79,6 +79,14 @@
 <div>
 
 ## 📊 &nbsp;My Activities
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kennedysmartins/kennedysmartins/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kennedysmartins/kennedysmartins/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kennedysmartins/kennedysmartins/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <div align="center">
   <a href="https://github.com/kennedysmartins">
     <img width=450 height=170 align="center" alt="kennedysmartins" src="https://github-readme-stats.vercel.app/api?username=kennedysmartins&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
@@ -91,6 +99,10 @@
 
 
 
+</div>
+
+<div>
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedysmartins&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div>
